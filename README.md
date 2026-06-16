@@ -96,3 +96,9 @@ This project demonstrates how Natural Language Processing can be used to underst
 * Integrate machine learning models for improved accuracy.
 * Perform real-time sentiment analysis on social media platforms.
 * Develop an interactive dashboard for sentiment monitoring.
+
+---
+
+## Note
+
+Due to GitHub file size limitations, the original dataset has not been included in this repository. The project notebook, code implementation, and generated visualizations are provided for demonstration and evaluation purposes.

@@ -99,6 +99,12 @@ This project demonstrates how Natural Language Processing can be used to underst
 
 ---
 
-## Note
+## Dataset Source
 
-Due to GitHub file size limitations, the original dataset has not been included in this repository. The project notebook, code implementation, and generated visualizations are provided for demonstration and evaluation purposes.
+The original IMDb Movie Reviews dataset used for this project is available on Kaggle:
+
+https://www.kaggle.com/datasets/lakshmi25npathi/imdb-dataset-of-50k-movie-reviews
+
+### Note
+
+The original dataset file has not been included in this repository because it exceeds GitHub's web upload size limit. The project notebook, code implementation, and generated visualizations are provided for evaluation and demonstration purposes.
